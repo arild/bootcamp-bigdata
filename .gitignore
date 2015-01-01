@@ -1,0 +1,8 @@
+run*.sh
+target/
+project/
+.project
+.classpath
+.cache
+.idea*
+*.iml
